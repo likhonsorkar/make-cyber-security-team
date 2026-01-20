@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Brian Krebs",
+        "age": 32,
+        "designation": "Journalist & Cyber Security Expert",
+        "address": "Miami, FL",
+        "img": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1768880623~exp=1768884223~hmac=6dda8da04b1ab2b1d2886ca512abba5749360b434be7af5069b764f9c20311fe&w=1480",
+        "salary": 52000
+    },
+    {
+        "id": 2,
+        "name": "Eva Galperin",
+        "age": 28,
+        "designation": "Director of Cybersecurity at EFF",
+        "address": "San Francisco, CA",
+        "img": "https://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6_400x400.jpg",
+        "salary": 48000
+    },
+    {
+        "id": 3,
+        "name": "Adam K. Levin",
+        "age": 46,
+        "designation": "Expert on Cybersecurity",
+        "address": "Phoenix, AZ",
+        "img": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1768880623~exp=1768884223~hmac=6dda8da04b1ab2b1d2886ca512abba5749360b434be7af5069b764f9c20311fe&w=1480",
+        "salary": 82000
+    },
+    {
+        "id": 4,
+        "name": "Bruce Schneier",
+        "age": 38,
+        "designation": "Security Technologist",
+        "address": "Austin, TX",
+        "img": "https://pbs.twimg.com/profile_images/69337528/bruce-blog_400x400.jpg",
+        "salary": 58000
+    },
+    {
+        "id": 5,
+        "name": "Shira Rubinoff",
+        "age": 27,
+        "designation": "Cybersecurity & Blockchain Dev",
+        "address": "New York, NY",
+        "img": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1768880623~exp=1768884223~hmac=6dda8da04b1ab2b1d2886ca512abba5749360b434be7af5069b764f9c20311fe&w=1480",
+        "salary": 46800
+    },
+    {
+        "id": 6,
+        "name": "Dmitri Alperovitch",
+        "age": 41,
+        "designation": "CTO of CrowdStrike",
+        "address": "Melbourne, FL",
+        "img": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1768880623~exp=1768884223~hmac=6dda8da04b1ab2b1d2886ca512abba5749360b434be7af5069b764f9c20311fe&w=1480",
+        "salary": 46500
+    },
+    {
+        "id": 7,
+        "name": "Eugene Kaspersky",
+        "age": 54,
+        "designation": "Russian Cybersecurity Expert",
+        "address": "Moscow, Russia",
+        "img": "https://pbs.twimg.com/profile_images/1274957058635333632/slyj2E16_400x400.jpg",
+        "salary": 87200
+    },
+    {
+        "id": 8,
+        "name": "Mikko Hyppönen",
+        "age": 49,
+        "designation": "Global Security Expert",
+        "address": "Helsinki, Finland",
+        "img": "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E_400x400.jpg",
+        "salary": 46400
+    },
+    {
+        "id": 9,
+        "name": "Daniel Miessler",
+        "age": 43,
+        "designation": "Project leader of OWASP’s IoT",
+        "address": "SF Bay Area, CA",
+        "img": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1768880623~exp=1768884223~hmac=6dda8da04b1ab2b1d2886ca512abba5749360b434be7af5069b764f9c20311fe&w=1480",
+        "salary": 51700
+    }
+]
